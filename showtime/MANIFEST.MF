@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: timedisplay
+Implementation-Title: Show ZonedTimeDate
+Implementation-Vendor: Malem Diwa (Individual)
+Implementation-Version: 1.0

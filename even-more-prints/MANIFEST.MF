@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: printmore
+Implementation-Title: Print even more
+Implementation-Version: 1.0
+Implementation-Vendor: Malem Diwa (Individual)

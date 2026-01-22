@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: mainjava
+Implementation-Title: First Program
+Implementation-Vendor: Malem Diwa (Individual)
+Implementation-Version: 1.0.0

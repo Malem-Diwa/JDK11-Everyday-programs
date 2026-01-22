@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: movingcursor
+Implementation-Title: Two texts with different Positions.
+Implementation-Version: 1.0
+Implementation-Vendor: Malem Diwa
