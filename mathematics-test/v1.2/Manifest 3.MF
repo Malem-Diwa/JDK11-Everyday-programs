@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: Uses_Math_Class3
+Implementation-Title: Math test
+Implementation-Version: 1.2
+Implementation-Vendor: Malem Diwa
+Build-Date: 27/1/2026(TIME[09:22])
