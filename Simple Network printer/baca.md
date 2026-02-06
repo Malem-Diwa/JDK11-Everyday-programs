@@ -5,7 +5,7 @@ Input structure must be: scheme://host/path
 ---------------------------------------------------
 **How it works**
 java.util.Scanner will scan your Input by *nextLine()*,
-then, it passes the string to java.net.URI, then java.net.URL converts URI to URL.
+then, it passes the string to java.net.URI, then java.net.URL converts it by *URI.toURL()*.
 After that, it opens InputStream and then read the entire response
 by another Scanner that functions as NetworkScanner.
 After all of that, it then does A while loop while NetworkScanner *hasNextLine()* while also *println(NETWORKSCANNER.nextLine())*.
