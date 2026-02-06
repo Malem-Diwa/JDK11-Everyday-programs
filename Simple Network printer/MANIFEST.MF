@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Implementation-Title: Simple Network Dumper
+Implementation-Version: 1.0
+Implementation-Vendor: Malem Diwa
+Build-Date: (06/02/2026: 15:20)
