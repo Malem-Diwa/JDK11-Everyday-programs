@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: AudioMain
+Implementstion-Title: Audio Play test
+Implementation-Version: 1.0
+Implementation-Vendor: Malem Diwa
+Build-Date: 10/02/2026(TIME[18:07])
