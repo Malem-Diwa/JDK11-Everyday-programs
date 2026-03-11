@@ -1,8 +1,7 @@
 public class main {
 	static java.util.Scanner scan = new java.util.Scanner(java.lang.System.in);
 	public static void main(java.lang.String[] args) {
-		boolean FINISH = false;
-		while (FINISH == false) {
+		while (true) {
 			java.lang.System.out.println("Type 'stop' to break the while loop.");
 			short A = (short)(java.lang.Math.random() * 1003);
 			short B = (short)(java.lang.Math.random() * 258);
