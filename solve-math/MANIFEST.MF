@@ -1,0 +1,7 @@
+Manifest-Version: 1
+Main-Class: main
+Implementation-Title: Solve Math
+Implementation-Version: 1.0
+Implementation-Vendor: Malem Diwa
+Build-Date: (11/03/2026[TIME:9:32])
+
